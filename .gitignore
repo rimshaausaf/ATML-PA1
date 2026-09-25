@@ -1,0 +1,5 @@
+__pycache__/
+*.pt
+*.pth
+data/stl10_binary/
+data/*.tar.gz
